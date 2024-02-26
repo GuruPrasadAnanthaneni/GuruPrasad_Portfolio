@@ -69,10 +69,10 @@ pre{
     margin-left: 5%;
     margin-top: 20%;
 }
-.who{
+/* .who{
     margin-left: 63%;
     margin-top: 5%;
-}
+} */
 .whole{
     display: flex;
     padding-bottom: 54px;
@@ -93,6 +93,7 @@ pre{
     padding-top: 5%;
     font-size: 30px;
     margin-left: 0%;
+    margin-bottom: 40px;
 }
 .image1{
     height: 304x;
@@ -100,10 +101,20 @@ pre{
     margin-left: 25%;
 }
 
+.who{
+    text-align: center;
+    margin-left: -4%;
+    
+}
+.para{
+    text-align: center;
+    margin-left: -5%;
+}
 
 .pre1{
     margin-left: 30%;
     margin-top: 5%;
+    margin-right: 15%;
 }
 .full{
     display: flex;
@@ -117,6 +128,7 @@ pre{
     font-size: 30px;
     margin-left: 0%;
     margin-bottom: 2%;
+ 
 }
 .para2{
     text-align: center;

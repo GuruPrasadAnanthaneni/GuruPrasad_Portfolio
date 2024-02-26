@@ -4,11 +4,14 @@
     border: 0;
     font-family: 'Poppins', sans-serif;
 }
+.right{
+    margin-right: 45px;
+}
 nav{
     display: flex;
     background-color: whitesmoke;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
     padding: 30px;
 }
 a {
@@ -21,7 +24,7 @@ header{
     font-weight: bold;
     text-align: left;
     font-size: 20px;
-    margin-left: -6%;
+    margin-left: 55px;
 }
 #Home{
     background-color: #ffff;
